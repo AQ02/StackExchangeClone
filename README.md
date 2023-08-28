@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![image](https://github.com/AQ02/StackExchangeClone/assets/81641810/c7e3ec86-1cf3-4119-beee-780dcf2bb2ea)
+Follow the above link to have a snapshot of the stackexchange clone i have created
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
