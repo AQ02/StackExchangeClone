@@ -1,0 +1,10 @@
+.left{
+    text-align: left;
+}
+.btn-orange{
+    background-color: orangered;
+}
+.btn-left{
+    position: absolute;
+    left: auto;
+}

@@ -1,0 +1,16 @@
+.image-style {
+    width: 50px;
+   
+}
+.div-left{
+    text-align: left;
+}
+.container{
+    display:grid;
+}
+.p-bold{
+    font-weight: bold;
+}
+.ques-mark{
+    fill: coral;
+}
